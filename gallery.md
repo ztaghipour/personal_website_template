@@ -12,14 +12,14 @@ gallery:
     image_path: /assets/images/10.jpg
     alt: "placeholder image 10"
     title: "Image 10 title caption"
-  - url: /assets/images/2.jpg
-    image_path: /assets/images/2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/3.jpg
-    image_path: /assets/images/3.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"  
+  - url: /assets/images/12.jpg
+    image_path: /assets/images/12.jpg
+    alt: "placeholder image 12"
+    title: "Image 12 title caption"
+  - url: /assets/images/11.jpg
+    image_path: /assets/images/11.jpg
+    alt: "placeholder image 11"
+    title: "Image 11 title caption"  
   - url: /assets/images/4.jpg
     image_path: /assets/images/4.jpg
     alt: "placeholder image 4"
