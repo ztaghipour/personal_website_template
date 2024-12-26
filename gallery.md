@@ -32,10 +32,10 @@ gallery:
     image_path: /assets/images/6.jpg
     alt: "placeholder images 6"
     title: "Image 6 title caption"
-  - url: /assets/images/7.jpg
-    image_path: /assets/images/7.jpg
-    alt: "placeholder images 7"
-    title: "Image 7 title caption"    
+  - url: /assets/images/13.jpg
+    image_path: /assets/images/13.jpg
+    alt: "placeholder images 13"
+    title: "Image 13 title caption"    
   - url: /assets/images/8.jpg
     image_path: /assets/images/8.jpg
     alt: "placeholder images 8"
