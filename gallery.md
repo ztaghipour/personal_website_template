@@ -29,7 +29,6 @@ gallery:
     alt: "placeholder image 5"
     title: "Image 5 title caption"
     
-    personal_website_template/assets/images/11.jpg
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
