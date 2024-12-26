@@ -107,13 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
+  name             : "Zahra Taghipour"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  bio              : I am a computer engineering student from the IUST
   location         : "تهران"
   email            : z.taghipour1919@gmail.com
-  twitter: sauleh_e
-  linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: ztaghipour
   links:
