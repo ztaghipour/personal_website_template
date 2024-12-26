@@ -104,11 +104,10 @@ analytics:
     tracking_id          : #UA-139110197-2
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Zahra Taghipour"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/photo_2024-12-26_22-11-31.jpg.jpg"
   bio              : I am a computer engineering student from the IUST
   location         : "Tehran"
   email            : z.taghipour1919@gmail.com
