@@ -28,7 +28,18 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"
-    
+  - url: /assets/images/6.jpg
+    image_path: /assets/images/6.jpg
+    alt: "placeholder images 6"
+    title: "Image 6 title caption"
+  - url: /assets/images/7.jpg
+    image_path: /assets/images/7.jpg
+    alt: "placeholder images 7"
+    title: "Image 7 title caption"    
+  - url: /assets/images/8.jpg
+    image_path: /assets/images/8.jpg
+    alt: "placeholder images 8"
+    title: "Image 8 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
