@@ -8,6 +8,7 @@ modified: 4-14-2019
 comments: false
 ---
 
+
 # Exam day shots
 
 
@@ -16,6 +17,7 @@ comments: false
 • <a href="https://fccourse.liara.run">fccourse.liara.run</a>
 
 • sample item 2
+
 
 
 
