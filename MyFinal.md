@@ -3,9 +3,9 @@ layout: single
 author_profile: true
 permalink: /Myfinal/
 title: MyFinal
-tags: [resume, cv]
+tags: [MyFinal]
 modified: 4-14-2019
-comments: false
+comments: true
 ---
 
 
